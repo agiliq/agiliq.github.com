@@ -1,0 +1,9 @@
+yahoo-hack-day-2010
+---------------------------------------------------------------
+
+The hack built for Yahoo hack day
+
+Watchers: 2
+Forks: 0
+Url: http://github.com/agiliq/yahoo-hack-day-2010
+Homepage: http://hackday.org/

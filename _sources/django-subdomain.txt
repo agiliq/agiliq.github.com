@@ -1,0 +1,9 @@
+django-subdomain
+---------------------------------------------------------------
+
+app to provide subdomain functionality in django project
+
+Watchers: 26
+Forks: 2
+Url: http://github.com/agiliq/django-subdomain
+Homepage: 

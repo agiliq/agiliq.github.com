@@ -1,0 +1,9 @@
+django-sorting
+---------------------------------------------------------------
+
+Sorting for Django. Yo.
+
+Watchers: 7
+Forks: 1
+Url: http://github.com/agiliq/django-sorting
+Homepage: 

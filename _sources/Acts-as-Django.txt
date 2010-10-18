@@ -1,0 +1,9 @@
+Acts-as-Django
+---------------------------------------------------------------
+
+A minibook to transition from Rails to Django or Django to Rails
+
+Watchers: 4
+Forks: 1
+Url: http://github.com/agiliq/Acts-as-Django
+Homepage: 

@@ -1,0 +1,9 @@
+django-djikiki
+---------------------------------------------------------------
+
+A django wiki
+
+Watchers: 3
+Forks: 1
+Url: http://github.com/agiliq/django-djikiki
+Homepage: http://uswaretech.com/wiki/

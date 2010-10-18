@@ -1,0 +1,9 @@
+appenginebook
+---------------------------------------------------------------
+
+A book on using Appengine for experienced Django developers.
+
+Watchers: 5
+Forks: 0
+Url: http://github.com/agiliq/appenginebook
+Homepage: appenginebook

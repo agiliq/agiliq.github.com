@@ -1,0 +1,9 @@
+Shiny-New-Django-1.1
+---------------------------------------------------------------
+
+Tutorials describing new things added to Django 1.1
+
+Watchers: 2
+Forks: 0
+Url: http://github.com/agiliq/Shiny-New-Django-1.1
+Homepage: shinynewdjango1dot1

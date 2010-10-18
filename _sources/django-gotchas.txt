@@ -1,0 +1,9 @@
+django-gotchas
+---------------------------------------------------------------
+
+Common gotcha's when working with Django.
+
+Watchers: 3
+Forks: 0
+Url: http://github.com/agiliq/django-gotchas
+Homepage: 

@@ -1,0 +1,9 @@
+django-haystack
+---------------------------------------------------------------
+
+Modular search for Django. Currently v1.1.0-alpha.
+
+Watchers: 1
+Forks: 0
+Url: http://github.com/agiliq/django-haystack
+Homepage: http://haystacksearch.org/

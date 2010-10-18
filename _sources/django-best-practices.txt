@@ -1,0 +1,9 @@
+django-best-practices
+---------------------------------------------------------------
+
+Documentation regarding Django best practices
+
+Watchers: 4
+Forks: 0
+Url: http://github.com/agiliq/django-best-practices
+Homepage: http://lincolnloop.com/django-best-practices/

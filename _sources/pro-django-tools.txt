@@ -1,0 +1,9 @@
+pro-django-tools
+---------------------------------------------------------------
+
+Tools not bundled with Django, but which you use everyday
+
+Watchers: 1
+Forks: 0
+Url: http://github.com/agiliq/pro-django-tools
+Homepage: http://uswaretech.com/blog

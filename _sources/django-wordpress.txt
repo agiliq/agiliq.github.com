@@ -1,0 +1,9 @@
+django-wordpress
+---------------------------------------------------------------
+
+Integrating wordpress with Django
+
+Watchers: 18
+Forks: 1
+Url: http://github.com/agiliq/django-wordpress
+Homepage: http://uswaretech.com/blog/2010/01/wordpress-and-django-best-buddies/

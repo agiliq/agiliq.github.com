@@ -1,0 +1,9 @@
+merchant
+---------------------------------------------------------------
+
+Accept payments from various payment processors via Pluggable backends.  A work in progress!
+
+Watchers: 31
+Forks: 1
+Url: http://github.com/agiliq/merchant
+Homepage: http://merchant.agiliq.com/

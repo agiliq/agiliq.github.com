@@ -1,0 +1,9 @@
+django-markupfield
+---------------------------------------------------------------
+
+a MarkupField for Django
+
+Watchers: 1
+Forks: 0
+Url: http://github.com/agiliq/django-markupfield
+Homepage: http://pypi.python.org/pypi/django-markupfield

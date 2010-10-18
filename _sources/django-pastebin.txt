@@ -1,0 +1,9 @@
+django-pastebin
+---------------------------------------------------------------
+
+A pastebin written in Django
+
+Watchers: 3
+Forks: 0
+Url: http://github.com/agiliq/django-pastebin
+Homepage: http://uswaretech.com/pastebin/

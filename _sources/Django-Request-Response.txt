@@ -1,0 +1,9 @@
+Django-Request-Response
+---------------------------------------------------------------
+
+A Dia Diagram showing how Django Handles Request and responses
+
+Watchers: 2
+Forks: 0
+Url: http://github.com/agiliq/Django-Request-Response
+Homepage: http://uswaretech.com/blog/2009/06/django-request-response-processing/
