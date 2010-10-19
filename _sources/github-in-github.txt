@@ -1,0 +1,9 @@
+github-in-github
+---------------------------------------------------------------
+
+ I heard you like github, so I put a github in your github, so you can github while you github.
+
+Watchers: 1
+Forks: 0
+Url: http://github.com/agiliq/github-in-github
+Homepage: 

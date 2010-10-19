@@ -3,7 +3,7 @@ django-sorting
 
 Sorting for Django. Yo.
 
-Watchers: 1
-Forks: 0
-Url: http://github.com/shabda/django-sorting
+Watchers: 8
+Forks: 1
+Url: http://github.com/agiliq/django-sorting
 Homepage: 
