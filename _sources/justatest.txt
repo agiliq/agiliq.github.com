@@ -1,9 +1,9 @@
-django-sorting
+justatest
 ---------------------------------------------------------------
 
-Sorting for Django. Yo.
+justatest
 
 Watchers: 1
 Forks: 0
-Url: http://github.com/shabda/django-sorting
+Url: http://github.com/shabda/justatest
 Homepage: 

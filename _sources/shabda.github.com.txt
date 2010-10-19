@@ -1,9 +1,9 @@
-django-sorting
+shabda.github.com
 ---------------------------------------------------------------
 
-Sorting for Django. Yo.
+Yo
 
 Watchers: 1
 Forks: 0
-Url: http://github.com/shabda/django-sorting
+Url: http://github.com/shabda/shabda.github.com
 Homepage: 

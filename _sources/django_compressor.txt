@@ -1,0 +1,9 @@
+django_compressor
+---------------------------------------------------------------
+
+Compresses linked and inline javascript or CSS into a single cached file.
+
+Watchers: 2
+Forks: 0
+Url: http://github.com/shabda/django_compressor
+Homepage: 

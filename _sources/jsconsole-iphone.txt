@@ -1,0 +1,9 @@
+jsconsole-iphone
+---------------------------------------------------------------
+
+The iPhone native version of JS Console (with WebSocket support)
+
+Watchers: 1
+Forks: 0
+Url: http://github.com/shabda/jsconsole-iphone
+Homepage: http://jsconsole.com/app

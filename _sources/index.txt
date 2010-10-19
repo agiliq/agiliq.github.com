@@ -1,40 +1,60 @@
 
-Welcome to agiliq's github page.
+Welcome to shabda's github page.
 ================================================================
 
-agiliq has 39 repositories with 732 watchers
-and 69 forks.
+shabda has 10 repositories with 11 watchers
+and 0 forks.
 
 
 
 
-Django-Socialauth
+django_compressor
 ---------------------------------------------------------------
 
-Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid
+Compresses linked and inline javascript or CSS into a single cached file.
 
-Watchers: 329
-Forks: 40
+Watchers: 2
+Forks: 0
 
 
 
-Dinette
+justatest
 ---------------------------------------------------------------
 
-Dinette is a forum application in the spirit of PunBB.
+justatest
 
-Watchers: 83
-Forks: 7
+Watchers: 1
+Forks: 0
 
 
 
-django-design-patterns
+progit
 ---------------------------------------------------------------
 
-Commonly occuring design patterns in Django
+Pro Git Book Content
 
-Watchers: 65
-Forks: 5
+Watchers: 1
+Forks: 0
+
+
+
+spacegame
+---------------------------------------------------------------
+
+A java based shoot em up game.
+
+Watchers: 1
+Forks: 0
+
+
+
+jsconsole-iphone
+---------------------------------------------------------------
+
+The iPhone native version of JS Console (with WebSocket support)
+
+Watchers: 1
+Forks: 0
 
 
 
@@ -43,28 +63,8 @@ djenofdjango
 
 A Django book for people with intermediate level Django skills. Inspired by James Bennett's Practical Django projects.
 
-Watchers: 51
-Forks: 2
-
-
-
-merchant
----------------------------------------------------------------
-
-Accept payments from various payment processors via Pluggable backends.  A work in progress!
-
-Watchers: 31
-Forks: 1
-
-
-
-django-subdomain
----------------------------------------------------------------
-
-app to provide subdomain functionality in django project
-
-Watchers: 26
-Forks: 2
+Watchers: 1
+Forks: 0
 
 
 
@@ -73,48 +73,18 @@ django-blogango
 
 A blogging app for Django
 
-Watchers: 22
-Forks: 2
+Watchers: 1
+Forks: 0
 
 
 
-django-wordpress
+django-subdomain
 ---------------------------------------------------------------
 
-Integrating wordpress with Django
+app to provide subdomain functionality in django project
 
-Watchers: 18
-Forks: 1
-
-
-
-django-socialnews
----------------------------------------------------------------
-
-A reddit like socialnews system for Django
-
-Watchers: 15
-Forks: 2
-
-
-
-django-buzz
----------------------------------------------------------------
-
-What is hot and buzzing in a topic?
-
-Watchers: 14
-Forks: 1
-
-
-
-django-datagrid
----------------------------------------------------------------
-
-A django based Datagrid
-
-Watchers: 8
-Forks: 1
+Watchers: 1
+Forks: 0
 
 
 
@@ -123,275 +93,15 @@ django-sorting
 
 Sorting for Django. Yo.
 
-Watchers: 7
-Forks: 1
-
-
-
-appenginebook
----------------------------------------------------------------
-
-A book on using Appengine for experienced Django developers.
-
-Watchers: 5
-Forks: 0
-
-
-
-django-answrs
----------------------------------------------------------------
-
-A generic Djnago app to create a question and answer site
-
-Watchers: 5
-Forks: 1
-
-
-
-django-best-practices
----------------------------------------------------------------
-
-Documentation regarding Django best practices
-
-Watchers: 4
-Forks: 0
-
-
-
-django-jobs
----------------------------------------------------------------
-
-A job board for Python
-
-Watchers: 4
-Forks: 0
-
-
-
-django-pollngo
----------------------------------------------------------------
-
-A Django based polling application
-
-Watchers: 4
-Forks: 1
-
-
-
-django-project
----------------------------------------------------------------
-
-A django based  project management system, in the spirit of Basecamp et all
-
-Watchers: 4
-Forks: 0
-
-
-
-Acts-as-Django
----------------------------------------------------------------
-
-A minibook to transition from Rails to Django or Django to Rails
-
-Watchers: 4
-Forks: 1
-
-
-
-django-djikiki
----------------------------------------------------------------
-
-A django wiki
-
-Watchers: 3
-Forks: 1
-
-
-
-django-pastebin
----------------------------------------------------------------
-
-A pastebin written in Django
-
-Watchers: 3
-Forks: 0
-
-
-
-agiliq
----------------------------------------------------------------
-
-The one true agiliq.com site.
-
-Watchers: 3
-Forks: 0
-
-
-
-django-gotchas
----------------------------------------------------------------
-
-Common gotcha's when working with Django.
-
-Watchers: 3
-Forks: 0
-
-
-
-Django-Request-Response
----------------------------------------------------------------
-
-A Dia Diagram showing how Django Handles Request and responses
-
-Watchers: 2
-Forks: 0
-
-
-
-Shiny-New-Django-1.1
----------------------------------------------------------------
-
-Tutorials describing new things added to Django 1.1
-
-Watchers: 2
-Forks: 0
-
-
-
-OpenEcho
----------------------------------------------------------------
-
-Open Source project intended to offer a self-hosted alternative to GetSatisfaction.com and UserVoice.com
-
-Watchers: 2
-Forks: 0
-
-
-
-django-google-analytics
----------------------------------------------------------------
-
-A simple django application to using Google Analytics in your project and tying different GA tags to different sites
-
-Watchers: 2
-Forks: 0
-
-
-
-yahoo-hack-day-2010
----------------------------------------------------------------
-
-The hack built for Yahoo hack day
-
-Watchers: 2
-Forks: 0
-
-
-
-pinax
----------------------------------------------------------------
-
-a Django-based platform for rapidly developing websites
-
 Watchers: 1
 Forks: 0
 
 
 
-django
+shabda.github.com
 ---------------------------------------------------------------
 
-UNOFFICIAL mirror of the Subversion repository (updated every 5 minutes)
-
-Watchers: 1
-Forks: 0
-
-
-
-pro-django-tools
----------------------------------------------------------------
-
-Tools not bundled with Django, but which you use everyday
-
-Watchers: 1
-Forks: 0
-
-
-
-django-queued-storage
----------------------------------------------------------------
-
-Provides a proxy for django file storage, that allows you to upload files locally and eventually serve them remotely
-
-Watchers: 1
-Forks: 0
-
-
-
-django-mailer
----------------------------------------------------------------
-
-mail queuing and management for the Django web framework
-
-Watchers: 1
-Forks: 0
-
-
-
-uswaretech.github.com
----------------------------------------------------------------
-
-New Site
-
-Watchers: 1
-Forks: 0
-
-
-
-docs
----------------------------------------------------------------
-
-Docs for agiliq and usware blog
-
-Watchers: 1
-Forks: 0
-
-
-
-searchapi
----------------------------------------------------------------
-
-Api over a number of search engines. 
-
-Watchers: 1
-Forks: 0
-
-
-
-django-haystack
----------------------------------------------------------------
-
-Modular search for Django. Currently v1.1.0-alpha.
-
-Watchers: 1
-Forks: 0
-
-
-
-django-markupfield
----------------------------------------------------------------
-
-a MarkupField for Django
-
-Watchers: 1
-Forks: 0
-
-
-
-agiliq.github.com
----------------------------------------------------------------
-
-Agiliq on github
+Yo
 
 Watchers: 1
 Forks: 0
@@ -403,83 +113,25 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   Django-Socialauth
+   django_compressor
    
-   Dinette
+   justatest
    
-   django-design-patterns
+   progit
+   
+   spacegame
+   
+   jsconsole-iphone
    
    djenofdjango
    
-   merchant
+   django-blogango
    
    django-subdomain
    
-   django-blogango
-   
-   django-wordpress
-   
-   django-socialnews
-   
-   django-buzz
-   
-   django-datagrid
-   
    django-sorting
    
-   appenginebook
-   
-   django-answrs
-   
-   django-best-practices
-   
-   django-jobs
-   
-   django-pollngo
-   
-   django-project
-   
-   Acts-as-Django
-   
-   django-djikiki
-   
-   django-pastebin
-   
-   agiliq
-   
-   django-gotchas
-   
-   Django-Request-Response
-   
-   Shiny-New-Django-1.1
-   
-   OpenEcho
-   
-   django-google-analytics
-   
-   yahoo-hack-day-2010
-   
-   pinax
-   
-   django
-   
-   pro-django-tools
-   
-   django-queued-storage
-   
-   django-mailer
-   
-   uswaretech.github.com
-   
-   docs
-   
-   searchapi
-   
-   django-haystack
-   
-   django-markupfield
-   
-   agiliq.github.com
+   shabda.github.com
    
    
 
