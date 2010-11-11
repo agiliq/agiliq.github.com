@@ -4,6 +4,6 @@ django-answrs
 A generic Djnago app to create a question and answer site
 
 Watchers: 5
-Forks: 1
-Url: http://github.com/agiliq/django-answrs
+Forks: 2
+Url: https://github.com/agiliq/django-answrs
 Homepage: http://uswaretech.com/asnwers/

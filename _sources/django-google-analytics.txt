@@ -4,6 +4,6 @@ django-google-analytics
 A simple django application to using Google Analytics in your project and tying different GA tags to different sites
 
 Watchers: 2
-Forks: 0
-Url: http://github.com/agiliq/django-google-analytics
+Forks: 1
+Url: https://github.com/agiliq/django-google-analytics
 Homepage: 

@@ -3,7 +3,7 @@ Dinette
 
 Dinette is a forum application in the spirit of PunBB.
 
-Watchers: 83
-Forks: 7
-Url: http://github.com/agiliq/Dinette
+Watchers: 85
+Forks: 11
+Url: https://github.com/agiliq/Dinette
 Homepage: http://agiliq.com/forum/

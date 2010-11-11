@@ -4,6 +4,6 @@ django-pollngo
 A Django based polling application
 
 Watchers: 4
-Forks: 1
-Url: http://github.com/agiliq/django-pollngo
+Forks: 2
+Url: https://github.com/agiliq/django-pollngo
 Homepage: http://uswaretech.com/polls

@@ -4,6 +4,6 @@ searchapi
 Api over a number of search engines. 
 
 Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/searchapi
+Forks: 1
+Url: https://github.com/agiliq/searchapi
 Homepage: 

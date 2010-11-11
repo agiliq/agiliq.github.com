@@ -3,7 +3,7 @@ django
 
 UNOFFICIAL mirror of the Subversion repository (updated every 5 minutes)
 
-Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/django
+Watchers: 2
+Forks: 1
+Url: https://github.com/agiliq/django
 Homepage: http://www.djangoproject.com/

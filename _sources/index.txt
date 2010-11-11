@@ -2,8 +2,8 @@
 Welcome to agiliq's github page.
 ================================================================
 
-agiliq has 40 repositories with 735 watchers
-and 69 forks.
+agiliq has 41 repositories with 849 watchers
+and 145 forks.
 
 
 
@@ -13,8 +13,8 @@ Django-Socialauth
 
 Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid
 
-Watchers: 329
-Forks: 40
+Watchers: 345
+Forks: 61
 
 
 
@@ -23,8 +23,8 @@ Dinette
 
 Dinette is a forum application in the spirit of PunBB.
 
-Watchers: 83
-Forks: 7
+Watchers: 85
+Forks: 11
 
 
 
@@ -34,7 +34,17 @@ django-design-patterns
 Commonly occuring design patterns in Django
 
 Watchers: 65
-Forks: 5
+Forks: 6
+
+
+
+so-starving
+---------------------------------------------------------------
+
+
+
+Watchers: 63
+Forks: 11
 
 
 
@@ -43,8 +53,8 @@ djenofdjango
 
 A Django book for people with intermediate level Django skills. Inspired by James Bennett's Practical Django projects.
 
-Watchers: 51
-Forks: 2
+Watchers: 54
+Forks: 4
 
 
 
@@ -53,8 +63,8 @@ merchant
 
 Accept payments from various payment processors via Pluggable backends.  A work in progress!
 
-Watchers: 32
-Forks: 1
+Watchers: 36
+Forks: 2
 
 
 
@@ -63,7 +73,7 @@ django-subdomain
 
 app to provide subdomain functionality in django project
 
-Watchers: 26
+Watchers: 31
 Forks: 2
 
 
@@ -73,18 +83,8 @@ django-blogango
 
 A blogging app for Django
 
-Watchers: 22
-Forks: 2
-
-
-
-django-wordpress
----------------------------------------------------------------
-
-Integrating wordpress with Django
-
-Watchers: 18
-Forks: 1
+Watchers: 24
+Forks: 4
 
 
 
@@ -93,8 +93,18 @@ django-socialnews
 
 A reddit like socialnews system for Django
 
-Watchers: 15
-Forks: 2
+Watchers: 19
+Forks: 3
+
+
+
+django-wordpress
+---------------------------------------------------------------
+
+Integrating wordpress with Django
+
+Watchers: 19
+Forks: 4
 
 
 
@@ -104,7 +114,7 @@ django-buzz
 What is hot and buzzing in a topic?
 
 Watchers: 14
-Forks: 1
+Forks: 2
 
 
 
@@ -113,8 +123,8 @@ django-datagrid
 
 A django based Datagrid
 
-Watchers: 8
-Forks: 1
+Watchers: 12
+Forks: 2
 
 
 
@@ -123,7 +133,27 @@ django-sorting
 
 Sorting for Django. Yo.
 
-Watchers: 8
+Watchers: 11
+Forks: 2
+
+
+
+github-in-github
+---------------------------------------------------------------
+
+ I heard you like github, so I put a github in your github, so you can github while you github.
+
+Watchers: 6
+Forks: 1
+
+
+
+django-best-practices
+---------------------------------------------------------------
+
+Documentation regarding Django best practices
+
+Watchers: 5
 Forks: 1
 
 
@@ -134,7 +164,7 @@ appenginebook
 A book on using Appengine for experienced Django developers.
 
 Watchers: 5
-Forks: 0
+Forks: 1
 
 
 
@@ -144,17 +174,7 @@ django-answrs
 A generic Djnago app to create a question and answer site
 
 Watchers: 5
-Forks: 1
-
-
-
-django-best-practices
----------------------------------------------------------------
-
-Documentation regarding Django best practices
-
-Watchers: 4
-Forks: 0
+Forks: 2
 
 
 
@@ -164,7 +184,7 @@ django-jobs
 A job board for Python
 
 Watchers: 4
-Forks: 0
+Forks: 1
 
 
 
@@ -174,7 +194,7 @@ django-pollngo
 A Django based polling application
 
 Watchers: 4
-Forks: 1
+Forks: 2
 
 
 
@@ -184,7 +204,7 @@ django-project
 A django based  project management system, in the spirit of Basecamp et all
 
 Watchers: 4
-Forks: 0
+Forks: 1
 
 
 
@@ -194,7 +214,7 @@ Acts-as-Django
 A minibook to transition from Rails to Django or Django to Rails
 
 Watchers: 4
-Forks: 1
+Forks: 2
 
 
 
@@ -204,7 +224,7 @@ django-djikiki
 A django wiki
 
 Watchers: 3
-Forks: 1
+Forks: 2
 
 
 
@@ -214,7 +234,7 @@ django-pastebin
 A pastebin written in Django
 
 Watchers: 3
-Forks: 0
+Forks: 1
 
 
 
@@ -224,7 +244,7 @@ agiliq
 The one true agiliq.com site.
 
 Watchers: 3
-Forks: 0
+Forks: 1
 
 
 
@@ -234,7 +254,17 @@ django-gotchas
 Common gotcha's when working with Django.
 
 Watchers: 3
-Forks: 0
+Forks: 1
+
+
+
+django
+---------------------------------------------------------------
+
+UNOFFICIAL mirror of the Subversion repository (updated every 5 minutes)
+
+Watchers: 2
+Forks: 1
 
 
 
@@ -244,7 +274,7 @@ Django-Request-Response
 A Dia Diagram showing how Django Handles Request and responses
 
 Watchers: 2
-Forks: 0
+Forks: 1
 
 
 
@@ -254,7 +284,7 @@ Shiny-New-Django-1.1
 Tutorials describing new things added to Django 1.1
 
 Watchers: 2
-Forks: 0
+Forks: 1
 
 
 
@@ -264,7 +294,7 @@ OpenEcho
 Open Source project intended to offer a self-hosted alternative to GetSatisfaction.com and UserVoice.com
 
 Watchers: 2
-Forks: 0
+Forks: 1
 
 
 
@@ -274,7 +304,7 @@ django-google-analytics
 A simple django application to using Google Analytics in your project and tying different GA tags to different sites
 
 Watchers: 2
-Forks: 0
+Forks: 1
 
 
 
@@ -284,7 +314,7 @@ yahoo-hack-day-2010
 The hack built for Yahoo hack day
 
 Watchers: 2
-Forks: 0
+Forks: 1
 
 
 
@@ -294,17 +324,7 @@ pinax
 a Django-based platform for rapidly developing websites
 
 Watchers: 1
-Forks: 0
-
-
-
-django
----------------------------------------------------------------
-
-UNOFFICIAL mirror of the Subversion repository (updated every 5 minutes)
-
-Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -314,7 +334,7 @@ pro-django-tools
 Tools not bundled with Django, but which you use everyday
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -324,7 +344,7 @@ django-queued-storage
 Provides a proxy for django file storage, that allows you to upload files locally and eventually serve them remotely
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -334,7 +354,7 @@ django-mailer
 mail queuing and management for the Django web framework
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -344,7 +364,7 @@ uswaretech.github.com
 New Site
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -354,7 +374,7 @@ docs
 Docs for agiliq and usware blog
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -364,7 +384,7 @@ searchapi
 Api over a number of search engines. 
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -374,7 +394,7 @@ django-haystack
 Modular search for Django. Currently v1.1.0-alpha.
 
 Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -394,17 +414,7 @@ agiliq.github.com
 Agiliq on github
 
 Watchers: 1
-Forks: 0
-
-
-
-github-in-github
----------------------------------------------------------------
-
- I heard you like github, so I put a github in your github, so you can github while you github.
-
-Watchers: 1
-Forks: 0
+Forks: 1
 
 
 
@@ -419,6 +429,8 @@ Contents:
    
    django-design-patterns
    
+   so-starving
+   
    djenofdjango
    
    merchant
@@ -427,9 +439,9 @@ Contents:
    
    django-blogango
    
-   django-wordpress
-   
    django-socialnews
+   
+   django-wordpress
    
    django-buzz
    
@@ -437,11 +449,13 @@ Contents:
    
    django-sorting
    
+   github-in-github
+   
+   django-best-practices
+   
    appenginebook
    
    django-answrs
-   
-   django-best-practices
    
    django-jobs
    
@@ -459,6 +473,8 @@ Contents:
    
    django-gotchas
    
+   django
+   
    Django-Request-Response
    
    Shiny-New-Django-1.1
@@ -470,8 +486,6 @@ Contents:
    yahoo-hack-day-2010
    
    pinax
-   
-   django
    
    pro-django-tools
    
@@ -490,8 +504,6 @@ Contents:
    django-markupfield
    
    agiliq.github.com
-   
-   github-in-github
    
    
 

@@ -3,7 +3,7 @@ djenofdjango
 
 A Django book for people with intermediate level Django skills. Inspired by James Bennett's Practical Django projects.
 
-Watchers: 51
-Forks: 2
-Url: http://github.com/agiliq/djenofdjango
+Watchers: 54
+Forks: 4
+Url: https://github.com/agiliq/djenofdjango
 Homepage: http://agiliq.com/books/djenofdjango

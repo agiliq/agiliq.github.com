@@ -4,6 +4,6 @@ django-queued-storage
 Provides a proxy for django file storage, that allows you to upload files locally and eventually serve them remotely
 
 Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/django-queued-storage
+Forks: 1
+Url: https://github.com/agiliq/django-queued-storage
 Homepage: 

@@ -4,6 +4,6 @@ pinax
 a Django-based platform for rapidly developing websites
 
 Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/pinax
+Forks: 1
+Url: https://github.com/agiliq/pinax
 Homepage: http://pinaxproject.com/

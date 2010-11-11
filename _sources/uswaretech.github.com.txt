@@ -4,6 +4,6 @@ uswaretech.github.com
 New Site
 
 Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/uswaretech.github.com
+Forks: 1
+Url: https://github.com/agiliq/uswaretech.github.com
 Homepage: 

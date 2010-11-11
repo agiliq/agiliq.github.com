@@ -4,6 +4,6 @@ docs
 Docs for agiliq and usware blog
 
 Watchers: 1
-Forks: 0
-Url: http://github.com/agiliq/docs
+Forks: 1
+Url: https://github.com/agiliq/docs
 Homepage: http://agiliq.com/blog/

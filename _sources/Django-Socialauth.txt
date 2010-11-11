@@ -3,7 +3,7 @@ Django-Socialauth
 
 Allows logging in via Facebook, Yahoo, Gmail, Twitter and Openid
 
-Watchers: 329
-Forks: 40
-Url: http://github.com/agiliq/Django-Socialauth
+Watchers: 345
+Forks: 61
+Url: https://github.com/agiliq/Django-Socialauth
 Homepage: http://agiliq.com/forum/login/
