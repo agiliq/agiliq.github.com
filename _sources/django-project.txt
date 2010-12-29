@@ -3,7 +3,7 @@ django-project
 
 A django based  project management system, in the spirit of Basecamp et all
 
-Watchers: 4
+Watchers: 5
 Forks: 1
 Url: https://github.com/agiliq/django-project
 Homepage: http://dashbard.com

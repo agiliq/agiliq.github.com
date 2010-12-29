@@ -3,7 +3,7 @@ django-design-patterns
 
 Commonly occuring design patterns in Django
 
-Watchers: 65
-Forks: 6
+Watchers: 69
+Forks: 8
 Url: https://github.com/agiliq/django-design-patterns
 Homepage: django-design-patterns

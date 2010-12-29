@@ -3,7 +3,7 @@ github-in-github
 
  I heard you like github, so I put a github in your github, so you can github while you github.
 
-Watchers: 6
+Watchers: 8
 Forks: 1
 Url: https://github.com/agiliq/github-in-github
 Homepage: 

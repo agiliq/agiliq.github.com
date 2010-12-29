@@ -1,0 +1,9 @@
+django-pubsub
+---------------------------------------------------------------
+
+A django app to help you create Twitter-like instant notifications
+
+Watchers: 58
+Forks: 4
+Url: https://github.com/agiliq/django-pubsub
+Homepage: http://chat.agiliq.com/pubsub/

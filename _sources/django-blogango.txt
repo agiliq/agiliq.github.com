@@ -3,7 +3,7 @@ django-blogango
 
 A blogging app for Django
 
-Watchers: 24
-Forks: 4
+Watchers: 27
+Forks: 5
 Url: https://github.com/agiliq/django-blogango
 Homepage: http://agiliq.com/blog/

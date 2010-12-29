@@ -3,7 +3,7 @@ django-datagrid
 
 A django based Datagrid
 
-Watchers: 12
-Forks: 2
+Watchers: 17
+Forks: 3
 Url: https://github.com/agiliq/django-datagrid
 Homepage: httP;//uswaretech.com

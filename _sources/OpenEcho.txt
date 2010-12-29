@@ -3,7 +3,7 @@ OpenEcho
 
 Open Source project intended to offer a self-hosted alternative to GetSatisfaction.com and UserVoice.com
 
-Watchers: 2
+Watchers: 4
 Forks: 1
 Url: https://github.com/agiliq/OpenEcho
 Homepage: http://www.openecho.org

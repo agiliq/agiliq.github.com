@@ -3,7 +3,7 @@ django-mailer
 
 mail queuing and management for the Django web framework
 
-Watchers: 1
+Watchers: 3
 Forks: 1
 Url: https://github.com/agiliq/django-mailer
 Homepage: 

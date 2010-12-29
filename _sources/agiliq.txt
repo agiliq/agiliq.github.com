@@ -3,7 +3,7 @@ agiliq
 
 The one true agiliq.com site.
 
-Watchers: 3
-Forks: 1
+Watchers: 7
+Forks: 2
 Url: https://github.com/agiliq/agiliq
 Homepage: http://agiliq.com

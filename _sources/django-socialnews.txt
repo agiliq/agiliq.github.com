@@ -3,7 +3,7 @@ django-socialnews
 
 A reddit like socialnews system for Django
 
-Watchers: 19
-Forks: 3
+Watchers: 24
+Forks: 5
 Url: https://github.com/agiliq/django-socialnews
 Homepage: http://42topics.com

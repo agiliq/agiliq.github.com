@@ -3,7 +3,7 @@ django-jobs
 
 A job board for Python
 
-Watchers: 4
-Forks: 1
+Watchers: 6
+Forks: 2
 Url: https://github.com/agiliq/django-jobs
 Homepage: http://uswaretech.com/jobs

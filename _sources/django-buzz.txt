@@ -3,7 +3,7 @@ django-buzz
 
 What is hot and buzzing in a topic?
 
-Watchers: 14
+Watchers: 15
 Forks: 2
 Url: https://github.com/agiliq/django-buzz
 Homepage: http://uswaretech.com/pystories/

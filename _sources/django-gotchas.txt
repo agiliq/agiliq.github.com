@@ -3,7 +3,7 @@ django-gotchas
 
 Common gotcha's when working with Django.
 
-Watchers: 3
+Watchers: 4
 Forks: 1
 Url: https://github.com/agiliq/django-gotchas
 Homepage: 
